@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="please_enter_your_mobile_number">Please enter your mobile number</string>
+    <string name="you_ll_receive_a_6_digit_code_to_verify_next">You’ll receive a 6 digit code to verify next.</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="please_select_your_profile">Please select your profile</string>
+    <string-array name="languages">
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Marathi</item>
+        <item>Telugu</item>
+        <item>Korean</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Tamil</item>
+        <item>Urdu</item>
+        <item>Italian</item>
+        <item>Gujarati</item>
+        <item>Greek</item>
+
+    </string-array>
+</resources>
